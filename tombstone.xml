@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ms247>
-	<serverStatus>advertizing</serverStatus>
+	<serverStatus>deprecated</serverStatus>
 
 	<droidLink>market://details?id=dk.yousee.musik</droidLink>
 
@@ -18,6 +18,12 @@
 		<da>Da TDC Privat bliver til YouSee, kan du allerede nu hente den nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</da>
 		<de>Da TDC Privat bliver til YouSee, kan du allerede nu hente den nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</de>
 	</advertizingMessage>
+	<advertizingOkButton>
+		<default>Hent nu</default>
+		<en>Hent nu</en>
+		<da>Hent nu</da>
+		<de>Hent nu</de>
+	</advertizingOkButton>
 	<advertizingCancelButton>
 		<default>Senere</default>
 		<en>Senere</en>
