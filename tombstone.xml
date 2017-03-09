@@ -7,71 +7,71 @@
 	<iosLink>1108892163</iosLink>
 
 	<advertizingCaption>
-		<default>Nu kan du bruge YouSee Musik</default>
-		<en>Nu kan du bruge YouSee Musik</en>
-		<da>Nu kan du bruge YouSee Musik</da>
-		<de>Nu kan du bruge YouSee Musik</de>
+		<default>default advertising caption</default>
+		<en>english advertising caption</en>
+		<da>danish advertising caption</da>
+		<de>german advertising caption</de>
 	</advertizingCaption>
 	<advertizingMessage>
-		<default>Da TDC Privat bliver til YouSee, kan du allerede nu hente den nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</default>
-		<en>Da TDC Privat bliver til YouSee, kan du allerede nu hente den nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</en>
-		<da>Da TDC Privat bliver til YouSee, kan du allerede nu hente den nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</da>
-		<de>Da TDC Privat bliver til YouSee, kan du allerede nu hente den nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</de>
+		<default>Default advertising message</default>
+		<en>English advertising message</en>
+		<da>Danish advertising message</da>
+		<de>German advertising message</de>
 	</advertizingMessage>
 	<advertizingOkButton>
-		<default>Hent nu</default>
-		<en>Hent nu</en>
-		<da>Hent nu</da>
-		<de>Hent nu</de>
+		<default>OK</default>
+		<en>OK</en>
+		<da>OK</da>
+		<de>OK</de>
 	</advertizingOkButton>
 	<advertizingCancelButton>
-		<default>Senere</default>
-		<en>Senere</en>
-		<da>Senere</da>
-		<de>Senere</de>
+		<default>Default Cancel</default>
+		<en>English Cancel</en>
+		<da>Danish Cancel</da>
+		<de>German Cancel</de>
 	</advertizingCancelButton>
 
 	<shuttingDownCaption>
-		<default>Skift til YouSee Musik</default>
-		<en>Skift til YouSee Musik</en>
-		<da>Skift til YouSee Musik</da> 
-		<de>Skift til YouSee Musik</de>
+		<default>Default shutting down caption</default>
+		<en>English shutting down caption</en>
+		<da>Danish shutting down caption</da> 
+		<de>German shutting down caption</de>
 	</shuttingDownCaption>
 	<shuttingDownMessage>
-		<default>Da TDC Privat bliver til YouSee, lukker TDC Play snart. Hent den nye YouSee Musik-app nu - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</default>
-		<en>Da TDC Privat bliver til YouSee, lukker TDC Play snart. Hent den nye YouSee Musik-app nu - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</en>
-		<da>Da TDC Privat bliver til YouSee, lukker TDC Play snart. Hent den nye YouSee Musik-app nu - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</da>
-		<de>Da TDC Privat bliver til YouSee, lukker TDC Play snart. Hent den nye YouSee Musik-app nu - brug dit nuværende TDC Login. Dine playlister og favoritter følger med, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</de>
+		<default>Default shutting down messeage</default>
+		<en>English shutting down messeage</en>
+		<da>Danish shutting down messeage</da>
+		<de>German shutting down messeage</de>
 	</shuttingDownMessage>
 	<shuttingDownOkButton>
-		<default>Hent nu</default>
-		<en>Hent nu</en>
-		<da>Hent nu</da>
-		<de>Hent nu</de>
+		<default>OK</default>
+		<en>OK</en>
+		<da>OK</da>
+		<de>OK</de>
 	</shuttingDownOkButton>
 	<shuttingDownCancelButton>
-		<default>Senere</default>
-		<en>Senere</en>
-		<da>Senere</da>
-		<de>Senere</de>
+		<default>Default Cancel</default>
+		<en>English Cancel</en>
+		<da>Danish Cancel</da>
+		<de>German Cancel</de>
 	</shuttingDownCancelButton>
 
 	<deprecatedCaption>
-		<default>TDC Play er nu lukket</default>
-		<en>TDC Play er nu lukket</en>
-		<da>TDC Play er nu lukket</da>
-		<de>TDC Play er nu lukket</de>
+		<default>Default deprecation message</default>
+		<en>English deprecation message</en>
+		<da>Danish deprecation message</da>
+		<de>German deprecation message</de>
 	</deprecatedCaption>	
 	<deprecatedMessage>
-		<default>Da TDC Privat bliver til YouSee, er TDC Play nu lukket. Hent vores nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter er blevet flyttet, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</default>
-		<en>Da TDC Privat bliver til YouSee, er TDC Play nu lukket. Hent vores nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter er blevet flyttet, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</en>
-		<da>Da TDC Privat bliver til YouSee, er TDC Play nu lukket. Hent vores nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter er blevet flyttet, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</da>
-		<de>Da TDC Privat bliver til YouSee, er TDC Play nu lukket. Hent vores nye YouSee Musik-app - brug dit nuværende TDC Login. Dine playlister og favoritter er blevet flyttet, så du fortsat kan opleve din yndlingsmusik, med forbedret lydkvalitet, flere funktioner og nyt design. Hjælp til loginoplysninger, kan findes på yousee.dk/minelogins</de>
+		<default>Default deprecation message</default>
+		<en>English deprecation message</en>
+		<da>Danish deprecation message</da>
+		<de>German deprecation message</de>
 	</deprecatedMessage>
 	<deprecatedOkButton>
-		<default>Hent nu</default>
-		<en>Hent nu</en>
-		<da>Hent nu</da>
-		<de>Hent nu</de>
+		<default>OK</default>
+		<en>OK</en>
+		<da>OK</da>
+		<de>OK</de>
 	</deprecatedOkButton>
 </ms247>
