@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ms247>
-	<serverStatus>deprecated</serverStatus>
+	<serverStatus>shuttingDown</serverStatus>
 
 	<droidLink>market://details?id=dk.yousee.musik</droidLink>
 
